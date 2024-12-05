@@ -1,0 +1,1 @@
+'Student performance tool' is an application prototype which is used to track and supervise the academic performance of the students.It enables parents to supervise different aspects of academic activities of their children.This is built using flutter and dart with the help of Android Studio.
